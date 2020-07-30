@@ -1,0 +1,5 @@
+package com.thymeleaf.login.ThymeleafLoginForm;
+
+public class LoginForm {
+
+}
